@@ -4,6 +4,7 @@ import male3 from "../assets/Images/MIP3.jpg";
 import male4 from "../assets/Images/MIP4.jpg";
 import female1 from "../assets/Images/FIP1.jpg";
 import female2 from "../assets/Images/FIP2.jpg";
+// import female2 from "../assets/Images/FIP2.jpg";
 
 const ProductDesign = {
   track: "Backend",
